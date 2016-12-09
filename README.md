@@ -16,6 +16,7 @@ smoothing parameter epsilon.
 Figures are in the final_figs and films are in the Movies folder. The text files are in the text file folder, but we were not able to upload all text files due to the limitation of 100MB on github, let us know if you want to have a look at these! 
 
 Thanks for all the help this semester we have learnt a lot!
+
 <3 C++ <3
 
 Tiffany & Andri
