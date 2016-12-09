@@ -13,7 +13,7 @@ of all particles (smoothed and unsmoothed depending on text file), "energy_boude
 distributions for different N and compares to the density function described in the report, and finally "ploteps" compares different values for the
 smoothing parameter epsilon.
 
-Figures are in the final_figs and films are in the Movies folder. 
+Figures are in the final_figs and films are in the Movies folder. The text files are in the text file folder, but we were not able to upload all text files due to the limitation of 100MB on github, let us know if you want to have a look at these! 
 
 Thanks for all the help this semester we have learnt a lot!
 <3 C++ <3
