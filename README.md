@@ -2,7 +2,7 @@
 
 This repository contains all programs, figures and films from the Astro version of Project 5 in Computational Physics at UiO, simulating
 the collapse of an open galactic cluster. We encourage the reader to have a look at the films, as illustrate whats happening in this project.
-In order to run the C++ program, select a number of initial particles N and a size of your "cluster", an initial radius R0. The program produces
+In order to run the C++ program, select a number of initial particles N and a size of your "cluster", an initial radius R0. The program was based on our C++ program for the Solar system, see PROJECT3-Solar-System repository for an explanation of the classes in the program. The program produces
 three different textfiles (one for positions, one for energies and one for a histogram of densities), comment out the desired writeToFile commands.
 There is a function for calculating the energy of bound objects or the energy of all objects, see comments in the code. 
 
